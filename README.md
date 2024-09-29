@@ -9,4 +9,4 @@
 
 ![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=MandaAlmeida&show_icons=true&theme=dracula)
 
-![Snake animation](https://github.com/amandaalmeida20/MandaAlmeida/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MandaAlmeida/MandaAlmeida/blob/output/github-contribution-grid-snake.svg)
