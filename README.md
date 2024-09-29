@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Amanda+de+Almeida;I'm+23+years+old;I+am+from+Sete+Lagoas,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Amanda+de+Almeida;I'm+23+years+old;I+am+from+Sete+Lagoas,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br/>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MandaAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaAlmeida&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MandaAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=001F3F&text_color=ffffff&bg_color=013A63" alt="Amanda Almeida github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaAlmeida&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=013A63" />
 </div>
 
 ### Main skills:
@@ -37,8 +38,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=footer"/>
