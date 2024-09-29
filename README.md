@@ -7,7 +7,7 @@
 
 <br/>
 
-![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaalmeida20&show_icons=true&theme=dracula)
+![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=MandaAlmeida&show_icons=true&theme=dracula)
 
 <br/>
 
