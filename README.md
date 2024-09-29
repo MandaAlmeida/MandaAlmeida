@@ -20,7 +20,7 @@
   <img style="margin-left: 1rem; border-radius: 0.4rem" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img  style="margin-left: 1rem; border-radius: 0.4rem" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img style="margin-left: 1rem; border-radius: 0.4rem" alt="Vtex" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg">
-  <img style="margin-left: 1rem; border-radius: 0.4rem" alt="Next" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=next&logoColor=white">
+  <img style="margin-left: 1rem; border-radius: 0.4rem" alt="Next" src="https://img.shields.io/badge/Next-007ACC?style=for-the-badge&logo=next&logoColor=white">
 </div>
 
 </br>
