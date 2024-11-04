@@ -29,7 +29,6 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
